@@ -12,6 +12,7 @@ Created on Sun Jul  8 15:38:29 2018
 @author: Mike
 Running vader sentiment on "seek_alpha_ws_test.txt" >> A web scrape of 2 Earnings calls for GE
 
+This file provides the sentiment analysis of each documnet by each sentence.
 """
 
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer as SIA
