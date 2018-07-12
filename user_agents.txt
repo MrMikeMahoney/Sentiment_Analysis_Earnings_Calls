@@ -1,0 +1,301 @@
+user_agent|version|os|hardware|popularity
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36|Chrome 60.0.3112.113|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36|Chrome 60.0.3112.90|Windows|Computer|Very common
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36|Chrome 44.0.2403.157|Linux|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36|Chrome 60.0.3112.90|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36|Chrome 60.0.3112.90|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36|Chrome 60.0.3112.113|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36|Chrome 57.0.2987.133|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36|Chrome 60.0.3112.90|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36|Chrome 57.0.2987.133|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36|Chrome 55.0.2883.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36|Chrome 63.0.3239.84|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36|Chrome 55.0.2883.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36|Chrome 46.0.2490.80|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36|Chrome 51.0.2704.106|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36|Chrome 48.0.2564.109|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36|Chrome 63.0.3239.132|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36|Chrome 62.0.3202.89|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36|Chrome 51.0.2704.63|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Mobile Safari/537.36|Chrome 63.0.3239.83|Android|Mobile - Phone|Very common
+Mozilla/5.0 (Linux; Android 6.0; vivo 1713 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36|Chrome 53.0.2785.124|Android|Mobile - Tablet|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36|Chrome 52.0.2743.116|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36|Chrome 61.0.3163.100|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36|Chrome 49.0.2623.112|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36|Chrome 43.0.2357.65|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36|Chrome 54.0.2840.99|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36|Chrome 57.0.2987.133|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36|Chrome 62.0.3202.89|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36|Chrome 57.0.2987.133|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36|Chrome 52.0.2743.116|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36|Chrome 57.0.2987.133|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36|Chrome 66.0.3359.181|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36|Chrome 57.0.2987.133|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36|Chrome 65.0.3325.181|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36|Chrome 58.0.3029.110|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 7.1; Mi A1 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36|Chrome 58.0.3029.83|Android|Mobile|Very common
+Mozilla/5.0 (Linux; Android 6.0.1; vivo 1603 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36|Chrome 58.0.3029.83|Android|Mobile - Tablet|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36|Chrome 54.0.2840.99|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36|Chrome 46.0.2490.80|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 Safari/537.36|Chrome 41.0.2272.104|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36|Chrome 60.0.3112.113|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36|Chrome 59.0.3071.115|Windows|Computer|Very common
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36|Chrome 42.0.2311.135|Linux|Computer|Very common
+Mozilla/5.0 (Linux; Android 4.4.2; XMP-6250 Build/HAWK) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36 ADAPI/2.0 (UUID:9e7df0ed-2a5c-4a19-bec7-2cc54800f99d) RK3188-ADAPI/1.2.84.533 (MODEL:XMP-6250)|Chrome 30.0.0.0|Android|Mobile|Very common
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36|Chrome 39.0.2171.95|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36|Chrome 55.0.2883.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36|Chrome 60.0.3112.90|Windows|Computer|Very common
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36|Chrome 61.0.3163.100|macOS|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36|Chrome 55.0.2883.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36|Chrome 55.0.2883.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36|Chrome 55.0.2883.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1|Firefox 7.0.1|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0|Firefox 54.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1|Firefox 40.1|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0|Firefox 50.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0|Firefox 52.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0|Firefox 50.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0|Firefox 54.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0|Firefox 52.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0|Firefox 41.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0|Firefox 46.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0|Firefox 44.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0|Firefox 56.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0|Firefox 47.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0|Firefox 56.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0|Firefox 52.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0|Firefox 52.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0|Firefox 50.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0|Firefox 52.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0|Firefox 52.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0|Firefox 48.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0|Firefox 50.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0|Firefox 50.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0|Firefox 50.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0|Firefox 39.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0|Firefox 41.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0|Firefox 46.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0|Firefox 48.0|Windows|Computer|Very common
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0|Firefox 15.0|Linux|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0|Firefox 44.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0|Firefox 57.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0|Firefox 54.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0|Firefox 45.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0|Firefox 53.0|Windows|Computer|Very common
+Mozilla/5.0 (X11; Linux x86_64; rv:10.0) Gecko/20150101 Firefox/47.0 (Chrome)|Firefox 47.0|Linux|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0|Firefox 45.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0|Firefox 47.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0|Firefox 54.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0|Firefox 54.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0|Firefox 53.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0|Firefox 47.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0|Firefox 43.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0|Firefox 52.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0|Firefox 59.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0|Firefox 58.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0|Firefox 59.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0|Firefox 45.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0|Firefox 41.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0|Firefox 41.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0|Firefox 57.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0|Firefox 52.0|Windows|Computer|Very common
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)|Internet Explorer 9.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)|Internet Explorer 9|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)|Internet Explorer 9|Windows|Computer|Very common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)|Internet Explorer 9|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)|Internet Explorer 10|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)|Internet Explorer 10|Windows|Computer|Very common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)|Internet Explorer 10|Windows|Computer|Very common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)|Internet Explorer 8|Windows|Computer|Very common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)|Internet Explorer 8|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)|Internet Explorer 8|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Very common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0)|Internet Explorer 9|Windows|Computer|Very common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)|Internet Explorer 9|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MDDSJS; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; wbx 1.0.0)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)|Internet Explorer 9|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; Xbox)|Internet Explorer 9|Windows|Large Screen - Game Console|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)|Internet Explorer 6.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2)|Internet Explorer 10.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.0; WOW64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 5.1; WOW64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)|Internet Explorer 6.0|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36|Chrome 62.0.3202.94|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36|Chrome 51.0.2704.106|Windows|Computer|Very common
+Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko) Chrome/v1.0.0 Safari/538.1|Chrome v1.0.0|Linux|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36|Chrome 61.0.3163.100|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36|Chrome 63.0.3239.111|Android|Mobile|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36|Chrome 48.0.2564.109|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36|Chrome 60.0.3112.116|Android|Mobile|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36|Chrome 64.0.3282.186|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36|Chrome 61.0.3163.79|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 7.1; vivo 1716 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36|Chrome 61.0.3163.98|Android|Mobile - Tablet|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36|Chrome 56.0.2924.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36|Chrome 58.0.3029.110|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36|Chrome 45.0.2454.93|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36|Chrome 51.0.2704.103|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36|Chrome 63.0.3239.132|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36|Chrome 50.0.2661.94|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 6.0; MYA-L22 Build/HUAWEIMYA-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36|Chrome 62.0.3202.84|Android|Mobile|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36|Chrome 51.0.2704.63|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 5.1; A37f Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36|Chrome 43.0.2357.93|Android|Mobile|Very common
+Mozilla/5.0 (Linux; Android 6.0; vivo 1606 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36|Chrome 53.0.2785.124|Android|Mobile - Tablet|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36|Chrome 59.0.3071.115|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36|Chrome 56.0.2924.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36|Chrome 66.0.3359.139|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36|Chrome 55.0.2883.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36|Chrome 66.0.3359.117|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 7.0; TRT-LX2 Build/HUAWEITRT-LX2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36|Chrome 59.0.3071.125|Android|Mobile|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36|Chrome 56.0.2924.87|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36|Chrome 41.0.2272.118|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36|Chrome 62.0.3202.84|Android|Mobile - Phone|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36|Chrome 51.0.2704.103|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36|Chrome 53.0.2785.124|Android|Mobile - Tablet|Very common
+Mozilla/5.0 (Linux; Android 7.0; SM-J730GM Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36|Chrome 63.0.3239.111|Android|Mobile - Phone|Very common
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36|Chrome 55.0.2883.87|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36|Chrome 63.0.3239.111|Android|Mobile - Phone|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36|Chrome 65.0.3325.181|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36|Chrome 63.0.3239.111|Android|Mobile|Very common
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36|Chrome 63.0.3239.111|Android|Mobile|Very common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36|Chrome 62.0.3202.94|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36|Chrome 55.0.2883.91|Android|Mobile|Very common
+Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36|Chrome 62.0.3202.84|Android|Mobile|Very common
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36|Chrome 63.0.3239.111|Android|Mobile|Very common
+Mozilla/5.0 (Linux; Android 7.0; SM-J710F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36|Chrome 62.0.3202.84|Android|Mobile - Phone|Very common
+Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36|Chrome 61.0.3163.98|Android|Mobile|Very common
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36|Chrome 41.0.2228.0|Windows|Computer|Very common
+Mozilla/5.0 (Linux; Android 6.0; CAM-L21 Build/HUAWEICAM-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36|Chrome 62.0.3202.84|Android|Mobile|Very common
+Mozilla/5.0 (Linux; Android 5.1; HUAWEI CUN-L22 Build/HUAWEICUN-L22; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36|Chrome 62.0.3202.84|Android|Mobile|Very common
+Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36|Chrome 52.0.2743.98|Android|Mobile|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36|Chrome 45.0.2454.101|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36|Chrome 49.0.2623.112|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36|Chrome 43.0.2357.65|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0|Firefox 46.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0|Firefox 41.0|Windows|Computer|Very common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0|Firefox 40.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0|Firefox 46.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0|Firefox 46.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0|Firefox 56.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0|Firefox 49.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0|Firefox 44.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0|Firefox 38.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0|Firefox 26.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0|Firefox 48.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0|Firefox 39.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0|Firefox 60.0|Windows|Computer|Common
+Mozilla/5.0 (X11; Linux x86_64; rv:10.0) Gecko/20150101 Firefox/20.0 (Chrome)|Firefox 20.0|Linux|Computer|Common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0|Firefox 54.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0|Firefox 56.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0|Firefox 56.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0|Firefox 56.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0|Firefox 56.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2|Firefox 6.0.2|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0|Firefox 44.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0|Firefox 44.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0|Firefox 51.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0|Firefox 59.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0|Firefox 49.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0|Firefox 44.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0|Firefox 42.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0|Firefox 46.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0|Firefox 41.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0|Firefox 58.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0|Firefox 38.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0|Firefox 43.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0|Firefox 59.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0|Firefox 51.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0|Firefox 39.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0|Firefox 55.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0|Firefox 56.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0|Firefox 53.0|Windows|Computer|Common
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0|Firefox 30.0|Mac OS X|Computer|Common
+Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|Firefox 45.0|Linux|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0|Firefox 45.0|Windows|Computer|Common
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4) Gecko/20100101 Firefox/4.0|Firefox 4.0|Linux|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0|Firefox 55.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0|Firefox 47.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0|Firefox 40.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0|Firefox 47.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0|Firefox 47.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0|Firefox 20.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; rv:43.0) Gecko/20100101 Firefox/43.0|Firefox 43.0|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0|Firefox 48.0|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)|Internet Explorer 7.0|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; Win64, x64; Trident/7.0; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; Trident/7.0; Touch; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; yie11; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; TNJB; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/7.0)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; MDDRJS)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; CMDTDFJS; F9J; InfoPath.3)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (MSIE 10.0; Windows NT 6.1; Trident/5.0)|Internet Explorer 9|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; ASU2JS)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; LCJB; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)|Internet Explorer 8.0|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/7.0)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MDDCJS)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0)|Internet Explorer 9|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/7.0)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MALNJS)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/7.0; .NET4.0E; .NET4.0C)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; BOIE9;ENUS)|Internet Explorer 9|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MATBJS)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E; FBViewer-6.0.4.0)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MAPBJS)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)|Internet Explorer 9.0|Windows|Computer|Common
+Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)|Internet Explorer 9|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; LCJB; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; NP06)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.1.4322; .NET4.0C; .NET4.0E)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MASMJS)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; EIE10;ENUSWOL)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; Touch)|Internet Explorer 10|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)|Internet Explorer 11|Windows|Computer|Common
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; WOW64; Trident/4.0; SLCC1)|Internet Explorer 8|Windows|Computer|Common
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MDDCJS; rv:11.0) like Gecko|Internet Explorer 11|Windows|Computer|Common
